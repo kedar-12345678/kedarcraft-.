@@ -1,2 +1,0 @@
-# kedarcraft-.
-a Minecraft game
